@@ -15,7 +15,7 @@ First project of the Udacity Machine Learning Nanodegree to get familiarized wit
  + _Uses the optimised model to provide predictions for a set of example client data_
  + _Comments on the viability of the model on a real world setting_
 
-## Running Instructions
+## Viewing Instructions
 
 1. Download the project
 2. Open the report.html file to view finished results
