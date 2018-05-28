@@ -4,7 +4,7 @@ boston_housing
 ## Table of Contents
 
 * [Description](#description)
-* [Running Instructions](#running-instructions)
+* [Viewing Instructions](#viewing-instructions)
 
 ## Description
 First project of the Udacity Machine Learning Nanodegree to get familiarized with techniques for training, testing, evaluating and optimizing models using sklearn and develop basic intuitions. 
